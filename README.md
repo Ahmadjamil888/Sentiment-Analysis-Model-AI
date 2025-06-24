@@ -42,7 +42,7 @@ you will see this on port:5000:
 <img src="https://raw.githubusercontent.com/Ahmadjamil888/Sentiment-Analysis-Model-AI/refs/heads/main/Screenshot%202025-06-24%20165212.png">
 
 Run the index.html file in your frontend folder
-#Now on front end you should see this
+# Now on front end you should see this
 <img src="https://raw.githubusercontent.com/Ahmadjamil888/Sentiment-Analysis-Model-AI/refs/heads/main/Screenshot%202025-06-24%20164442.png">
 #For positive Sentiment
 <img src="https://raw.githubusercontent.com/Ahmadjamil888/Sentiment-Analysis-Model-AI/refs/heads/main/Screenshot%202025-06-24%20164513.png">
